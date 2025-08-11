@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Forever",
+    "description": "A responsive full-stack e-commerce application featuring secure user authentication, shopping cart management, and payment gateway integration. Built for a smooth and scalable online shopping experience.",
+    "tech": ["MongoDB", "Express", "React", "Node.js"],
+    "image": "https://res.cloudinary.com/dsktltruh/image/upload/v1754753848/ecommerce_rmziyq.png",
+    "liveLink": "https://forever-main-fe.onrender.com/",
+    "githubLink": "https://github.com/jaswantlw/Ecommerce-App"
+  },
+  {
+    "title": "StegGuard",
+    "description": "An AI-powered steganography detection tool that uses RGB histogram analysis and a Random Forest Classifier to uncover hidden content in images. Includes a Tkinter-based GUI for instant image upload and prediction.",
+    "tech": ["Python", "Tkinter", "OpenCV", "scikit-learn"],
+    "image": "https://res.cloudinary.com/dsktltruh/image/upload/v1754754484/stegguard_n9sype.png",
+    "liveLink": null,
+    "githubLink": "https://github.com/jaswantlw/StegGuard"
+  },
+  {
+    "title": "HUJ Movies",
+    "description": "A Flask-based movie management and recommendation site using the TMDb API for rich data, PostgreSQL for storage, and scikit-learn for personalized suggestions, with a responsive HTML/CSS interface.",
+    "tech": ["HTML", "CSS", "Flask", "PostgreSQL", "scikit-learn", "pandas"],
+    "image": "https://res.cloudinary.com/dsktltruh/image/upload/v1754888959/huj_movies_rqnttd.jpg",
+    "liveLink": null,
+    "githubLink": "https://github.com/jaswantlw/Movie-Management-Website"
+  }
+]
